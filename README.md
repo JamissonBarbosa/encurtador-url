@@ -1,6 +1,16 @@
-# url-shortener-dio
+# url-short
 
-Projeto criado junto da DIO para construção de um Encurtador de URL.
+Projeto Encurtador de URL.
+
+## Linguagem e tecnologias
+ - `typescript`
+ -  `node`
+ -  `express`
+
+## Banco de Dados
+
+- `MondoDB`
+
 
 ## Rodando o projeto
 
